@@ -1,9 +1,10 @@
 # The Operator Splitting QP Solver
 
+> fix bug in [Namespace conflicts with OSQP constants (was: Osqp library seems to have conflicts with OpenCV library)](https://github.com/osqp/osqp/issues/210), without changing API.
+
 [![CI](https://github.com/osqp/osqp/actions/workflows/main.yml/badge.svg)](https://github.com/osqp/osqp/actions/workflows/main.yml)
 [![Code coverage](https://coveralls.io/repos/github/osqp/osqp/badge.svg?branch=master)](https://coveralls.io/github/osqp/osqp?branch=master)
 ![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)
-
 
 ![PyPI - downloads](https://img.shields.io/pypi/dm/osqp.svg?label=Pypi%20downloads)
 ![Conda - downloads](https://img.shields.io/conda/dn/conda-forge/osqp.svg?label=Conda%20downloads)
